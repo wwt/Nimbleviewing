@@ -3,7 +3,7 @@
 If you're applying for an Android development position at World Wide Technology Application Services then this is the repo for you!
 
 ### Instructions
-Your mission, should you choose to accept it, is to show album titles and images in a Recycler view. The album title and image should be retrieved from [https://jsonplaceholder.typicode.com/](https://jsonplaceholder.typicode.com/). The project already contains a base URL (the one above!) and endpoint URLs for this task.
+Your mission, should you choose to accept it, is to show album titles and images in a Recycler view. The album title and images should be retrieved from [https://jsonplaceholder.typicode.com/](https://jsonplaceholder.typicode.com/). The project already contains a base URL (the one above!) and endpoint URLs for this task.
 
 BUSINESS REQUIREMENTS:
 - Remove all occurances of the letter "e" (case-insensitive) from album titles
